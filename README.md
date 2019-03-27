@@ -115,7 +115,7 @@ We also have 3 legacy certifications from our 2015 curriculum, which are still a
 
 ### The Learning Platform
 
-This code is running live at [freeCodeCamp.org](https://www.freecodecamp.org).
+This code is running live only at [freeCodeCamp.org](https://www.freecodecamp.org).
 
 Our community also has:
 
